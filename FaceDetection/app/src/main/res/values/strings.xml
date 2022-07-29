@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="capture_pic_hint">Enter a title for the picture.</string>
+    <string name="capture_pic_label">Title</string>
+    <string name="capture_pic_details">Details</string>
+    <string name="capture_pic_solved">Solved</string>
+    <string name="capture_pic_done">Done With Detection</string>
+</resources>
